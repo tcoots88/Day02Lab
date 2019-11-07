@@ -1,0 +1,18 @@
+* {
+    margin: 5;
+    padding: 0;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  header {
+    margin: 0;
+    background: black;
+    color: white;
+  }
+  
+  p {
+    background: red;
+    color: white;
+    text-indent: 5%;
+  }
